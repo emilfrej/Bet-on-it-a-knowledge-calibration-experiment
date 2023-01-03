@@ -1,0 +1,4 @@
+Frame;Question;t_or_f;num
+Inger Støjberg: Jeg elsker en god flæskesteg.;Der bliver slagtet flere grise end hunde i Danmark;t;1
+Pia Olsen Dyhr: Kvinder lever længere end mænd.;Procentdelen af kvinder i Danmark er vokset med mere end 10% de seneste 10 år;f;2
+Inger Støjberg: Det er et stort problem at studerende mistrives på deres studie;Hver tredje optagne studerende falder fra;t;3
